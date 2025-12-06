@@ -12,7 +12,7 @@
 	<groupId>com.unir</groupId>
 	<artifactId>bliblioteca</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<packaging>war</packaging>
+	<packaging>jar</packaging>
 	<name>bliblioteca</name>
 	<description>Proyecto biblioteca online Maestria ISSI</description>
 	<url />
